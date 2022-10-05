@@ -1,0 +1,38 @@
+/* ==========================================================================
+   Customized @LeonardoGutierrezV
+   ========================================================================== */
+
+/* Prchid Pallete */
+$lgv01: #192e5b !default; // BackGround
+$lgv02: #72a2c0 !default; // Text
+$lgv03: #f2a104 !default; // headers
+$lgv04: #00723f !default; // Borde
+$lgv05: #fbfbfb !default;
+
+$background-color: $lgv01 !default; //OK
+$text-color: $lgv02 !default; //OK
+$primary-color: $lgv04 !default; //OK
+$border-color: $lgv04 !default; // Validar
+$code-background-color: mix($text-color, $background-color, 20%) !default; //OK
+//$code-background-color-dark: mix(#000, $background-color, 20%) !default;
+$code-background-color-dark: $lgv03;
+//$form-background-color: mix(#000, $background-color, 15%) !default;
+$form-background-color: $lgv03;
+$footer-background-color: mix(#000, $background-color, 30%) !default; //OK
+$link-color: mix($text-color, $lgv03, 40%) !default; //ok
+$link-color-hover: mix(#fff, $link-color, 25%) !default; //ok
+$link-color-visited: mix(#000, $link-color, 25%) !default; //OK
+//$masthead-link-color: $lgv03 !default; // ok
+$masthead-link-color: $lgv05 !default; // ok
+$masthead-link-color-hover: mix(#000, $text-color, 20%) !default; // OK
+$navicon-link-color-hover: mix(#000, $background-color, 30%) !default; // OK
+
+
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+.ais-search-box .ais-search-box--input {
+  background-color: $form-background-color;
+}

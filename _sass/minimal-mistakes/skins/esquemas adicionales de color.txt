@@ -1,0 +1,54 @@
+/* Blue Palet 
+$bp01: #000a23 !default;
+$bp02: #02152b; //;
+$bp03: #021d34;
+$bp04: #02253d;
+$bp05: #012e46;
+$bp06: #153f59;
+$bp07: #365b77;
+$bp08: #557996;
+$bp09: #7498b6;
+$bp10: #94b8d7;
+$bp11: #d6e6f5;*/
+
+/*Cigodo Pallete
+$lgv01: #153f59 !default; // BackGround
+$lgv02: #d6e6f5 !default; // Text
+$lgv03: #94b8d7 !default; // headers
+$lgv04: #557996 !default; // Borde
+$lgv05: #000a23 !default;
+*/
+
+
+/* Lain Pallete 
+$lgv01: #02152b !default; // BackGround
+$lgv02: #7498b6 !default; // Text
+$lgv03: #557996 !default; // headers
+$lgv04: #d6e6f5 !default; // Borde
+$lgv05: #000a23 !default;*/
+
+
+/* Serious Pallete 
+$lgv01: #132226 !default; // BackGround
+$lgv02: #a4978e !default; // Text
+$lgv03: #be9063 !default; // headers
+$lgv04: #525b56 !default; // Borde
+$lgv05: #040c0e !default;*/
+
+/* Vintage Pallete 
+$lgv01: #282726 !default; // BackGround
+$lgv02: #6a8a82 !default; // Text
+$lgv03: #a37c27 !default; // headers
+$lgv04: #a7414a !default; // Borde
+$lgv05: #563838 !default;*/
+
+/*green
+$lgv01: #020308 !default; // BackGround
+$lgv02: #8d8e91 !default; // Text
+$lgv03: #00db6e !default; // headers
+$lgv04: #00422c !default; // Borde
+$lgv05: #fbfbfb !default;*/
+
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
