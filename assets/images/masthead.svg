@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320"
+   height="45"
+   viewBox="0 0 84.666664 11.90625"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="masthead.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.3339342"
+     inkscape:cx="195.59249"
+     inkscape:cy="42.417649"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="20.01206,9.567178"
+       orientation="0,-1"
+       id="guide17604" />
+    <sodipodi:guide
+       position="34.826183,2.9831234"
+       orientation="0,-1"
+       id="guide17606" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="21.801445"
+       y="136.52708"
+       id="text429"><tspan
+         sodipodi:role="line"
+         id="tspan427"
+         style="stroke-width:0.264583"
+         x="21.801445"
+         y="136.52708" /></text>
+    <g
+       id="g6922"
+       style="fill:#7498b6;fill-opacity:1"
+       transform="translate(-41.952105,-121.23985)">
+      <path
+         d="m 42.999637,121.96623 h 1.736322 v 0.73381 h -1.012855 v 8.40773 h 1.012855 v 0.70796 h -1.736322 z"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#7498b6;fill-opacity:1;stroke-width:0.264583"
+         id="path6679" />
+      <path
+         d="m 46.090911,123.09019 h 0.764808 v 6.86777 h 2.91971 v 0.73381 h -3.684518 z"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#7498b6;fill-opacity:1;stroke-width:0.264583"
+         id="path6681" />
+      <path
+         d="m 52.866706,131.81573 h -1.736323 v -0.7338 h 1.007688 v -8.40773 h -1.007688 v -0.70797 h 1.736323 z"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#7498b6;fill-opacity:1;stroke-width:0.264583"
+         id="path6683" />
+      <path
+         d="m 55.422611,123.56302 q 0.263549,0 0.449584,0.18605 0.186034,0.18602 0.186034,0.45474 0,0.26872 -0.186034,0.45476 -0.186035,0.18604 -0.449584,0.18604 -0.263549,0 -0.449583,-0.18604 -0.186035,-0.18604 -0.186035,-0.45476 0,-0.26354 0.186035,-0.44958 0.186034,-0.1912 0.449583,-0.19121 z m -0.07751,4.37182 0.697629,0.33072 -1.049028,1.95337 -0.511595,-0.21704 z"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#7498b6;fill-opacity:1;stroke-width:0.264583"
+         id="path6685" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#94b8d7;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="17.287588"
+       y="8.3400326"
+       id="text13319"><tspan
+         sodipodi:role="line"
+         id="tspan13317"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#94b8d7;fill-opacity:1;stroke-width:0.264583"
+         x="17.287588"
+         y="8.3400326">Leonardo Gutiérrez</tspan></text>
+  </g>
+</svg>
