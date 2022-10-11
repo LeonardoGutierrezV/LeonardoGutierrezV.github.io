@@ -17,3 +17,9 @@ tags:
   - Powerautomate
   - Powerapps
 ---
+
+### Fecha Powerautomate a Fecha numeríca Excel.
+
+```json
+div(sub(ticks(utcNow()),ticks('1899-12-31T00:00:00.0000000Z')),864000000000)
+```
