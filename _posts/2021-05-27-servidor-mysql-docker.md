@@ -5,7 +5,7 @@ excerpt: "Vamos a montar un servidor MySQL utilizando un contenedor Docker y con
 date: 2021-05-27
 classes: guía
 header:
-  teaser: /assets/images/ /servidor-mysql-docker/logo.png
+  teaser: /assets/images/servidor-mysql-docker/logo.png
   teaser_home_page: true
   icon: /assets/images/db_icon.png
 categories:
