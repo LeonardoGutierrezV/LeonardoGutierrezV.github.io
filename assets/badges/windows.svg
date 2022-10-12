@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="107.6"
+   height="28"
+   role="img"
+   aria-label="OPERA"
+   version="1.1"
+   id="svg49"
+   sodipodi:docname="windows.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs53" />
+  <sodipodi:namedview
+     id="namedview51"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="6.0827922"
+     inkscape:cx="70.444623"
+     inkscape:cy="3.6167601"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg49"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="94.814406,17.754189"
+       orientation="0,-1"
+       id="guide11428" />
+    <sodipodi:guide
+       position="114.6555,9.9478575"
+       orientation="0,-1"
+       id="guide11430" />
+    <sodipodi:guide
+       position="12.0223,-3.1598381"
+       orientation="1,0"
+       id="guide19297" />
+    <sodipodi:guide
+       position="32.713741,21.539036"
+       orientation="0,-1"
+       id="guide19299" />
+    <sodipodi:guide
+       position="32.713741,6.5316076"
+       orientation="0,-1"
+       id="guide19301" />
+    <sodipodi:guide
+       position="39.583626,39.286241"
+       orientation="1,0"
+       id="guide19417" />
+  </sodipodi:namedview>
+  <title
+     id="title37">OPERA</title>
+  <g
+     shape-rendering="crispEdges"
+     id="g41"
+     style="fill:#00adef;fill-opacity:1"
+     transform="scale(1.2192635,1)">
+    <rect
+       width="88.25"
+       height="28"
+       fill="#ff1b2d"
+       id="rect39"
+       style="fill:#00adef;fill-opacity:1"
+       x="0"
+       y="0" />
+  </g>
+  <metadata
+     id="metadata135">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>OPERA</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="38.796875"
+     y="17.918821"
+     id="text19713"><tspan
+       sodipodi:role="line"
+       id="tspan19711"
+       x="38.796875"
+       y="17.918821"
+       style="font-size:13.3333px;fill:#ffffff">windows</tspan></text>
+  <g
+     id="g10491"
+     transform="matrix(0.24993596,0,0,0.24993596,25.336524,-1.6583316)"
+     style="fill:#ffffff;fill-opacity:1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -53.359764,40.938513 24.34477,-3.493585 v 23.566051 h -24.34477 z"
+       id="path10483" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -26.034,37.017142 V 61.010979 H 6.1607175 L 6.1429402,32.641688 Z"
+       id="path10485" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -26.034,63.693873 V 87.531479 L 6.1429404,92.172937 6.1607178,63.693873 Z"
+       id="path10487" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -29.014994,63.693873 v 23.421403 l -24.34477,-3.398983 v -20.02242 z"
+       id="path10489" />
+  </g>
+</svg>
