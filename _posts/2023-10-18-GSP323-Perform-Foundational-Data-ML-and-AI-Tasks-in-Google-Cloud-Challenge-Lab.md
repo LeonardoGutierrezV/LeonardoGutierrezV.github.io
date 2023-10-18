@@ -7,7 +7,7 @@ classes: guía
 header:
   teaser: /assets/images/GSP323/logo.png
   teaser_home_page: true
-  icon: /assets/images/gcloud.png.png
+  icon: /assets/images/gcloud.png
 categories:
   - GCloud
   - Google Cloud Skills Boost
